@@ -1,8 +1,5 @@
 # E4_reliability
 
-Add the implementation, setup, execution instructions, and evaluation results here.
-
-
 ## Evidence Documents
 
 The `data_docs/` directory contains the evidence documents used in the experimental evaluation of the question-answering systems.
