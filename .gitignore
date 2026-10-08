@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+*.key
+credentials.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos locais
+.vscode/
+.idea/
+*.log
+
+# Dados privados e arquivos grandes
+data/raw/
+data/private/
+*.parquet
+*.dbc
+*.dbf
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
