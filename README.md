@@ -6,6 +6,18 @@ This repository organizes the development and experimental evaluation of an LLM-
 
 The project is divided into four incremental deliverables (E1–E4), exploring the transition from basic language-model answering to controlled retrieval, specialized agents, and systematic reliability evaluation.
 
+
+### 📄 Slides
+
+[Visualizar apresentação em PDF](Sistemas_Multiagentes_Unicamp.pdf)
+
+### 🎥 Vídeo da apresentação
+
+[![Apresentação do projeto](https://img.youtube.com/vi/UZIMWpEVdxc/hqdefault.jpg)](https://youtu.be/UZIMWpEVdxc)
+
+Clique na imagem para assistir ao vídeo.
+
+
 ## System Evolution
 
 | Deliverable | Focus | Research Question |
